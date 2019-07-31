@@ -40,7 +40,7 @@
   <dependencies>
     <dependency>
       <groupId>${project.groupId}</groupId>
-      <artifactId>formats-gpl</artifactId>
+      <artifactId>formats-bsd</artifactId>
       <version>${formats-gpl.version}</version>
     </dependency>
 
